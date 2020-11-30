@@ -1,6 +1,6 @@
 {
     "name": "opencensus/opencensus-exporter-stackdriver",
-      "description": "OpenCensus Stackdriver Exporter for PHP",
+      "description": "OpenCensus Stackdriver Exporter for PHP, tmp",
     "type": "library",
     "repositories":
     [
