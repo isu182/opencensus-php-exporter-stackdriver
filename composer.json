@@ -2,6 +2,13 @@
     "name": "opencensus/opencensus-exporter-stackdriver",
       "description": "OpenCensus Stackdriver Exporter for PHP",
     "type": "library",
+    "repositories":
+    [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hackerboydotcom/opencensus-php"
+        }
+    ],
     "require": {
         "php": ">=5.6",
         "opencensus/opencensus": "~0.5",
